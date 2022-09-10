@@ -19,6 +19,7 @@
 		D2CC94CB28CD19430071EFE1 /* ItemDetail.swift in Sources */ = {isa = PBXBuildFile; fileRef = D2CC94CA28CD19430071EFE1 /* ItemDetail.swift */; };
 		D2CC94CD28CD231C0071EFE1 /* OrderView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D2CC94CC28CD231C0071EFE1 /* OrderView.swift */; };
 		D2CC94CF28CD258F0071EFE1 /* MainView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D2CC94CE28CD258F0071EFE1 /* MainView.swift */; };
+		D2CC94D328CD301C0071EFE1 /* CheckoutView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D2CC94D228CD301C0071EFE1 /* CheckoutView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -35,6 +36,7 @@
 		D2CC94CA28CD19430071EFE1 /* ItemDetail.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ItemDetail.swift; sourceTree = "<group>"; };
 		D2CC94CC28CD231C0071EFE1 /* OrderView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OrderView.swift; sourceTree = "<group>"; };
 		D2CC94CE28CD258F0071EFE1 /* MainView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainView.swift; sourceTree = "<group>"; };
+		D2CC94D228CD301C0071EFE1 /* CheckoutView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CheckoutView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -71,6 +73,7 @@
 				D2AF9A3F28C8403500D22DB9 /* ContentView.swift */,
 				D2CC94CA28CD19430071EFE1 /* ItemDetail.swift */,
 				D2CC94CC28CD231C0071EFE1 /* OrderView.swift */,
+				D2CC94D228CD301C0071EFE1 /* CheckoutView.swift */,
 				D2CC94CE28CD258F0071EFE1 /* MainView.swift */,
 				D2CC94C828CD124D0071EFE1 /* ItemRow.swift */,
 				D235683D28CA3A6800B247A2 /* Helper.swift */,
@@ -164,6 +167,7 @@
 			files = (
 				D2CC94CB28CD19430071EFE1 /* ItemDetail.swift in Sources */,
 				D2CC94CF28CD258F0071EFE1 /* MainView.swift in Sources */,
+				D2CC94D328CD301C0071EFE1 /* CheckoutView.swift in Sources */,
 				D2CC94CD28CD231C0071EFE1 /* OrderView.swift in Sources */,
 				D2AF9A4028C8403500D22DB9 /* ContentView.swift in Sources */,
 				D2AF9A3E28C8403500D22DB9 /* IDineApp.swift in Sources */,
